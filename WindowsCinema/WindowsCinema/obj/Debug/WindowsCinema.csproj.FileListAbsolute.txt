@@ -1,0 +1,71 @@
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\WindowsCinema\WindowsCinema\obj\Debug\WindowsCinema.exe
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\WindowsCinema\WindowsCinema\obj\Debug\WindowsCinema.pdb
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\WindowsCinema\WindowsCinema\bin\Debug\WindowsCinema.exe
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\WindowsCinema\WindowsCinema\bin\Debug\WindowsCinema.pdb
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\WindowsCinema\WindowsCinema\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\WindowsCinema\WindowsCinema\obj\Debug\WindowsCinema.Form1.resources
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\WindowsCinema\WindowsCinema\obj\Debug\WindowsCinema.Form2.resources
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\WindowsCinema\WindowsCinema\obj\Debug\WindowsCinema.Properties.Resources.resources
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\WindowsCinema\WindowsCinema\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\WindowsCinema\WindowsCinema\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\WindowsCinema\WindowsCinema\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\WindowsCinema\WindowsCinema\bin\Debug\MySql.Data.dll
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\Dropbox\WindowsCinema\WindowsCinema\bin\Debug\MySql.Data.dll
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\Dropbox\WindowsCinema\WindowsCinema\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\Dropbox\WindowsCinema\WindowsCinema\obj\Debug\WindowsCinema.Form1.resources
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\Dropbox\WindowsCinema\WindowsCinema\obj\Debug\WindowsCinema.Form2.resources
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\Dropbox\WindowsCinema\WindowsCinema\obj\Debug\WindowsCinema.Properties.Resources.resources
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\Dropbox\WindowsCinema\WindowsCinema\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\Dropbox\WindowsCinema\WindowsCinema\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\Dropbox\WindowsCinema\WindowsCinema\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\Dropbox\WindowsCinema\WindowsCinema\obj\Debug\WindowsCinema.Form5.resources
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\Dropbox\WindowsCinema\WindowsCinema\bin\Debug\Theatrum Cinema.exe.config
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\Dropbox\WindowsCinema\WindowsCinema\bin\Debug\Theatrum Cinema.exe
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\Dropbox\WindowsCinema\WindowsCinema\bin\Debug\Theatrum Cinema.pdb
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\Dropbox\WindowsCinema\WindowsCinema\obj\Debug\Theatrum Cinema.exe
+D:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\Dropbox\WindowsCinema\WindowsCinema\obj\Debug\Theatrum Cinema.pdb
+D:\Mis documentos\TheatrumCinema\WindowsCinema\WindowsCinema\bin\Debug\Theatrum Cinema.exe.config
+D:\Mis documentos\TheatrumCinema\WindowsCinema\WindowsCinema\bin\Debug\Theatrum Cinema.exe
+D:\Mis documentos\TheatrumCinema\WindowsCinema\WindowsCinema\bin\Debug\Theatrum Cinema.pdb
+D:\Mis documentos\TheatrumCinema\WindowsCinema\WindowsCinema\bin\Debug\MySql.Data.dll
+D:\Mis documentos\TheatrumCinema\WindowsCinema\WindowsCinema\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis documentos\TheatrumCinema\WindowsCinema\WindowsCinema\obj\Debug\WindowsCinema.Form1.resources
+D:\Mis documentos\TheatrumCinema\WindowsCinema\WindowsCinema\obj\Debug\WindowsCinema.Form2.resources
+D:\Mis documentos\TheatrumCinema\WindowsCinema\WindowsCinema\obj\Debug\WindowsCinema.Form5.resources
+D:\Mis documentos\TheatrumCinema\WindowsCinema\WindowsCinema\obj\Debug\WindowsCinema.Properties.Resources.resources
+D:\Mis documentos\TheatrumCinema\WindowsCinema\WindowsCinema\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Mis documentos\TheatrumCinema\WindowsCinema\WindowsCinema\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\Mis documentos\TheatrumCinema\WindowsCinema\WindowsCinema\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Mis documentos\TheatrumCinema\WindowsCinema\WindowsCinema\obj\Debug\Theatrum Cinema.exe
+D:\Mis documentos\TheatrumCinema\WindowsCinema\WindowsCinema\obj\Debug\Theatrum Cinema.pdb
+C:\Documents and Settings\NeN\Mis documentos\WindowsCinema\WindowsCinema\bin\Debug\Theatrum Cinema.exe.config
+C:\Documents and Settings\NeN\Mis documentos\WindowsCinema\WindowsCinema\obj\Debug\Theatrum Cinema.exe
+C:\Documents and Settings\NeN\Mis documentos\WindowsCinema\WindowsCinema\obj\Debug\Theatrum Cinema.pdb
+C:\Documents and Settings\NeN\Mis documentos\WindowsCinema\WindowsCinema\bin\Debug\Theatrum Cinema.exe
+C:\Documents and Settings\NeN\Mis documentos\WindowsCinema\WindowsCinema\bin\Debug\Theatrum Cinema.pdb
+C:\Documents and Settings\NeN\Mis documentos\WindowsCinema\WindowsCinema\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\NeN\Mis documentos\WindowsCinema\WindowsCinema\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NeN\Mis documentos\WindowsCinema\WindowsCinema\obj\Debug\WindowsCinema.Form1.resources
+C:\Documents and Settings\NeN\Mis documentos\WindowsCinema\WindowsCinema\obj\Debug\WindowsCinema.Form2.resources
+C:\Documents and Settings\NeN\Mis documentos\WindowsCinema\WindowsCinema\obj\Debug\WindowsCinema.Form5.resources
+C:\Documents and Settings\NeN\Mis documentos\WindowsCinema\WindowsCinema\obj\Debug\WindowsCinema.Properties.Resources.resources
+C:\Documents and Settings\NeN\Mis documentos\WindowsCinema\WindowsCinema\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\NeN\Mis documentos\WindowsCinema\WindowsCinema\obj\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\NeN\Mis documentos\WindowsCinema\WindowsCinema\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\Dropbox\WindowsCinema NUEVO\WindowsCinema\bin\Debug\Theatrum Cinema.exe.config
+G:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\Dropbox\WindowsCinema NUEVO\WindowsCinema\obj\Debug\Theatrum Cinema.exe
+G:\Mis documentos\Desarrollo\2 DAI B\TheatrumCinema\Dropbox\WindowsCinema NUEVO\WindowsCinema\obj\Debug\Theatrum Cinema.pdb
+G:\Mis documentos\GitHub\WindowsCinema\WindowsCinema\bin\Debug\Theatrum Cinema.exe.config
+G:\Mis documentos\GitHub\WindowsCinema\WindowsCinema\obj\Debug\Theatrum Cinema.exe
+G:\Mis documentos\GitHub\WindowsCinema\WindowsCinema\obj\Debug\Theatrum Cinema.pdb
+G:\Mis documentos\GitHub\CinemaWEBTPV\WindowsCinema\WindowsCinema\bin\Debug\Theatrum Cinema.exe.config
+G:\Mis documentos\GitHub\CinemaWEBTPV\WindowsCinema\WindowsCinema\obj\Debug\Theatrum Cinema.exe
+G:\Mis documentos\GitHub\CinemaWEBTPV\WindowsCinema\WindowsCinema\obj\Debug\Theatrum Cinema.pdb
+G:\Mis documentos\GitHub\CinemaWEBTPV\WindowsCinema\WindowsCinema\bin\Debug\Theatrum Cinema.exe
+G:\Mis documentos\GitHub\CinemaWEBTPV\WindowsCinema\WindowsCinema\bin\Debug\Theatrum Cinema.pdb
+G:\Mis documentos\GitHub\CinemaWEBTPV\WindowsCinema\WindowsCinema\obj\Debug\WindowsCinema.csprojResolveAssemblyReference.cache
+G:\Mis documentos\GitHub\CinemaWEBTPV\WindowsCinema\WindowsCinema\obj\Debug\WindowsCinema.ChooseCinema.resources
+G:\Mis documentos\GitHub\CinemaWEBTPV\WindowsCinema\WindowsCinema\obj\Debug\WindowsCinema.Main.resources
+G:\Mis documentos\GitHub\CinemaWEBTPV\WindowsCinema\WindowsCinema\obj\Debug\WindowsCinema.Login.resources
+G:\Mis documentos\GitHub\CinemaWEBTPV\WindowsCinema\WindowsCinema\obj\Debug\WindowsCinema.Properties.Resources.resources
+G:\Mis documentos\GitHub\CinemaWEBTPV\WindowsCinema\WindowsCinema\obj\Debug\WindowsCinema.csproj.GenerateResource.Cache

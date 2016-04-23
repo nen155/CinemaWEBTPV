@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsCinema.BaseDatos">
+    <Position X="11.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAA4GAAgYBAgAAIAABCAAAEAQAABADABSQAAAQAAA=</HashCode>
+      <FileName>BaseDatos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsCinema.Compra">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAEAAAAAAAAAAAAAAAgQACgAAAAAABAA=</HashCode>
+      <FileName>Compra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsCinema.Empleado">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAgABAAYAAACEAAAAgAAAAAAAAAAAAAAQAAAAEAI=</HashCode>
+      <FileName>Empleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsCinema.Empleados">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAIAAAAAAEQQAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Empleados.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsCinema.Fichar">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Fichar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsCinema.FtpSettings">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAgAACAAAAAAAAAAQAAEgEACBIACCgCAAgAAgAAAAA=</HashCode>
+      <FileName>FtpSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsCinema.Pelicula">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAPQkRBLAAAQCAKAAhECgCIhAIArQICACwCAAAAAg9E=</HashCode>
+      <FileName>Pelicula.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsCinema.Peliculas">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAQAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Peliculas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsCinema.Precio">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAAAABAAAgAAAQIAAIEAAACAAAAgAAAEMAE=</HashCode>
+      <FileName>Precio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsCinema.Ticket">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhEAAAAAAgAAgBKEAJAAAACAiECIAAzACDCsAAIxoAA=</HashCode>
+      <FileName>Ticket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsCinema.Ticketss">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAACAAAAAAIAAACAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Ticketss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsCinema.csproj.GenerateResource.Cache
+bin\Debug\WindowsCinema.exe
+bin\Debug\WindowsCinema.pdb
+obj\Debug\WindowsCinema.Properties.Resources.resources
+obj\Debug\WindowsCinema.exe
+obj\Debug\WindowsCinema.pdb
+obj\Debug\WindowsCinema.Form1.resources
+obj\Debug\WindowsCinema.Form2.resources

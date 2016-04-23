@@ -1,0 +1,23 @@
+                   private void Form2_MouseMove(object sender, MouseEventArgs e)
+        {
+ ratonX = e.X;
+            ratonY = e.Y;
+            Point p = new Point(butacas*tamaño,filas*tamaño);
+
+            if (ratonX < ox - 1 || ratonX > esquinaInferiorX || ratonY < oy - 1 || ratonY > esquinaInferiorY) 
+                {
+                    lbFila.Text = "0";
+                    lbColumna.Text = "0";
+                }
+                else
+                {
+                    lbColumna.Text = columna(e.X).ToString();
+                    lbFila.Text = filaMuestra(e.Y).ToString();
+                }
+
+
+
+        } 
+
+
+
